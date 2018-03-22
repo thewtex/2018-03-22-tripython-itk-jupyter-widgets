@@ -1,5 +1,5 @@
 jupyter
 RISE
 itkwidgets
-itk-io
+itk
 requests
